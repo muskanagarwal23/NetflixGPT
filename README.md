@@ -1,8 +1,11 @@
 #NetflixGPT
 - configure react+vite
 - configure tailwind css
+- Routing
 - Header
-- form
+- login form 
+- form validation
+- useRef hook
 
 #features
 - authentication page 
