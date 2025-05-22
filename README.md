@@ -1,6 +1,8 @@
 #NetflixGPT
 - configure react+vite
 - configure tailwind css
+- Header
+- form
 
 #features
 - authentication page 
